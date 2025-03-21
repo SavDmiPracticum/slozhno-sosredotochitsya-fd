@@ -95,6 +95,11 @@
   border-bottom: 1px solid var(--menu-text-color);
 }
 
+.header__theme-menu-button_active {
+  outline: 1px solid var(--menu-text-color);
+  pointer-events: none;
+}
+
 .header__title {
   font-size: var(--page-font-size);
   font-weight: bold;
