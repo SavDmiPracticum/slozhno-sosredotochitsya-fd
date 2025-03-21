@@ -7,6 +7,7 @@
   --title-color: #db00ff;
   --decor-text-color: #000028;
   --menu-text-color: var(--accent-color);
+  --content-title-color: var(--accent-color);
   --font-size: 18px;
   --page-font-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
   --gap-main: 50px;

@@ -6,6 +6,7 @@
   --title-color: #db00ff;
   --decor-text-color: #000028;
   --menu-text-color: var(--accent-color);
+  --content-title-color: var(--accent-color);
 }
 
 .theme-dark .header__rec {

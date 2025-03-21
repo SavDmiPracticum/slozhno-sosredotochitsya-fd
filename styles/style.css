@@ -134,7 +134,7 @@
   font-size: inherit;
   font-weight: bold;
   line-height: 130%;
-  color: var(--accent-color);
+  color: var(--content-title-color);
 }
 
 .content__info {
@@ -145,6 +145,12 @@
 .content__subtitle {
   font-size: inherit;
   font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.content__subtitle-4 {
+  font-size: inherit;
+  font-weight: normal;
   margin-bottom: 10px;
 }
 
