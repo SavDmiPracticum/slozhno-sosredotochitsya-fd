@@ -14,6 +14,7 @@
   --gap-content: 20px;
   --main-padding: 10px;
   --header-bottom: 40px;
+  --menu-hover-color: rgb(225, 0, 112, 0.4);
 }
 
 @media (width >= 768px) {

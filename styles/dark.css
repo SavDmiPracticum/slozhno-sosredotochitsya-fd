@@ -7,6 +7,7 @@
   --decor-text-color: #000028;
   --menu-text-color: var(--accent-color);
   --content-title-color: var(--accent-color);
+  --menu-hover-color: rgb(225, 0, 112, .4);
 }
 
 .theme-dark .header__rec {
