@@ -153,6 +153,11 @@
   margin-block-end: 10px;
 }
 
+.content__subtitle-section {
+  font-size: inherit;
+  font-weight: bold;
+}
+
 .content__subtitle-paragraph {
   font-size: inherit;
   font-weight: normal;
