@@ -201,6 +201,7 @@
 
 .footer {
   position: relative;
+  display: grid;
   align-content: center;
   block-size: 100vh;
   min-block-size: 668px;
